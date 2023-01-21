@@ -418,10 +418,10 @@ browserslist@^4.21.3:
     node-releases "^2.0.6"
     update-browserslist-db "^1.0.9"
 
-buymeacoffee@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/buymeacoffee/-/buymeacoffee-0.0.6.tgz#9be569342818341167c606a26339ea0331bb8704"
-  integrity sha512-FzZugvEtpDskoWiC95x9Yq+D4r6KWePHNCdbtyOp/SFpl5PmqBhsYX0XbDNj4L8STF4NHgN02vMTZEFN4Cmh3w==
+buymeacoffee@^0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/buymeacoffee/-/buymeacoffee-0.0.10.tgz#47b2bfb27644d7cd4882dfcf4a68b963f53aff80"
+  integrity sha512-6KnX50Z9ujm7qGc4phaofMYu10vDMStq7Br55pofaPgmCDahd8qiuaY6aotkm0zPpiwxv6G5Hh59NuFbek6Suw==
   dependencies:
     "@react-svg-icons/web" "^0.0.6"
 
