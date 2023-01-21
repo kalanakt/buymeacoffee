@@ -1,0 +1,27 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Configuration files
+.env
+
+# Temporary files
+*.swp
+
+# Test files
+__tests__/
+*.spec.*
+
+# Coverage files
+coverage/
+
+# Npm package files
+*.tgz
+package-lock.json
