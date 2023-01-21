@@ -1,6 +1,6 @@
-# [buymeacoffee]
+# buymeacoffee
 
-buymeacoffee is a unofficial buymeacoffee.com Widget react components library.
+buymeacoffee is a unofficial [buymeacoffee.com](https://www.buymeacoffee.com/) Widget react components library.
 
 ## Installation
 
@@ -32,7 +32,7 @@ Use the package in your component:
 buymeacoffee -> WebsiteWidget supports the following props:
 
 - **name**: your buymeacoffee.com username (requred : yes)
-- **color**: Website Widget color (default: `"#FF813F"`) (available: `"#BD5FFF"`  `"#5F7FFF"`  `"#40DCA5"`  `"#FF5F5F"`
+- **color**: Website Widget color (default: `"#FF813F"`) (available: `"#BD5FFF"`  `"#5F7FFF"`  `"#40DCA5"`  `"#FF5F5F"`)
 
 ## Example
 
